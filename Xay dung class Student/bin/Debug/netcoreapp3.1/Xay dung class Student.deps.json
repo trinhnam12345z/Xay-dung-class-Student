@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Xay dung class Student/1.0.0": {
+        "runtime": {
+          "Xay dung class Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xay dung class Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

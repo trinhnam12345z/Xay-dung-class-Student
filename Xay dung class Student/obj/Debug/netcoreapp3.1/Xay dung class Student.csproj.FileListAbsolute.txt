@@ -1,0 +1,12 @@
+E:\BT C#\Xay dung class Student\Xay dung class Student\bin\Debug\netcoreapp3.1\Xay dung class Student.exe
+E:\BT C#\Xay dung class Student\Xay dung class Student\bin\Debug\netcoreapp3.1\Xay dung class Student.deps.json
+E:\BT C#\Xay dung class Student\Xay dung class Student\bin\Debug\netcoreapp3.1\Xay dung class Student.runtimeconfig.json
+E:\BT C#\Xay dung class Student\Xay dung class Student\bin\Debug\netcoreapp3.1\Xay dung class Student.runtimeconfig.dev.json
+E:\BT C#\Xay dung class Student\Xay dung class Student\bin\Debug\netcoreapp3.1\Xay dung class Student.dll
+E:\BT C#\Xay dung class Student\Xay dung class Student\bin\Debug\netcoreapp3.1\Xay dung class Student.pdb
+E:\BT C#\Xay dung class Student\Xay dung class Student\obj\Debug\netcoreapp3.1\Xay dung class Student.AssemblyInfoInputs.cache
+E:\BT C#\Xay dung class Student\Xay dung class Student\obj\Debug\netcoreapp3.1\Xay dung class Student.AssemblyInfo.cs
+E:\BT C#\Xay dung class Student\Xay dung class Student\obj\Debug\netcoreapp3.1\Xay dung class Student.csproj.CoreCompileInputs.cache
+E:\BT C#\Xay dung class Student\Xay dung class Student\obj\Debug\netcoreapp3.1\Xay dung class Student.dll
+E:\BT C#\Xay dung class Student\Xay dung class Student\obj\Debug\netcoreapp3.1\Xay dung class Student.pdb
+E:\BT C#\Xay dung class Student\Xay dung class Student\obj\Debug\netcoreapp3.1\Xay dung class Student.genruntimeconfig.cache
